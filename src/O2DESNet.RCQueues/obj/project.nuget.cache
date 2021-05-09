@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5ucGHJBuF9cxTRwREYLqPckujve+EIzdB8pj3G6eapAt664aOwJeQf1BrJfZqRo/L9PRfYqtTZ9dd0pTmjpig==",
+  "success": true,
+  "projectFilePath": "C:\\RnD\\O2DESNet\\O2DESNet.RCQueues Github\\src\\O2DESNet.RCQueues\\O2DESNet.RCQueues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isemrm\\.nuget\\packages\\mathnet.numerics\\4.8.1\\mathnet.numerics.4.8.1.nupkg.sha512",
+    "C:\\Users\\isemrm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\isemrm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\isemrm\\.nuget\\packages\\o2desnet\\3.6.5\\o2desnet.3.6.5.nupkg.sha512",
+    "C:\\Users\\isemrm\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
